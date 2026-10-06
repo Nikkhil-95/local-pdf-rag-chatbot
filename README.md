@@ -127,7 +127,7 @@ ollama list
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Nikkhil-95/local-pdf-rag-chatbot.git
 ```
 
 Move into the project directory:
